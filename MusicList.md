@@ -5,3 +5,5 @@ Porcupine Tree
 XJapan
 Metallica
 Guns n Roses
+Joe Satrani
+
