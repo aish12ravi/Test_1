@@ -5,5 +5,4 @@ Porcupine Tree
 XJapan
 Metallica
 Guns n Roses
-Creed
-Bullet from my Valentine
+Joe Satrani
